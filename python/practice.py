@@ -1,2 +1,2 @@
-arr = map(int, input().split())
-print(arr)
+a = [37.21,37.21,37.2,41.0,39.0]
+a.sort()
