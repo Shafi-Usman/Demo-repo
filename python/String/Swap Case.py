@@ -1,4 +1,5 @@
 def swap_case(s):
+    # s.swapcase() easy 
     li = []
     for i in s:
         if i.islower():
